@@ -1,0 +1,9 @@
+Finale 2.0 v1.1 FIX
+
+권장 GitHub Pages 설정:
+Settings > Pages > Deploy from a branch > main > /(root)
+
+이 ZIP은 압축을 푼 뒤 'ZIP 안의 파일들'을 저장소 루트에 업로드하세요.
+최상위에 index.html, styles.css, app.js, assets 폴더가 보여야 합니다.
+
+기존 설정이 /docs인 경우에도 동작하도록 docs 사본을 함께 포함했습니다.
